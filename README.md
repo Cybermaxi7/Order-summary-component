@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL👉👉: [Click here](https://www.frontendmentor.io/solutions/responsive-order-summary-component-Rmx3WRSSiW)
+- Live Site URL👉👉: [Click here](https://cybermaxi7.github.io/Order-summary-component/)
 
 
 ### Built with
@@ -43,6 +43,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@Cybermaxi7](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@Cybermaxi7](https://www.twitter.com/yourusername)
